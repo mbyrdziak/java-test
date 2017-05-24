@@ -6,6 +6,6 @@ public class FooTest {
 
     @Test
     public void shouldTest() {
-        assertFalse(false);
+        assertFalse(true);
     }
 }
