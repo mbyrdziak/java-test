@@ -8,5 +8,6 @@ public class FooTest {
     public void shouldTest() {
 
         assertFalse(true);
+
     }
 }
